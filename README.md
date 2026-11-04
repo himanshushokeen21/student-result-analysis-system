@@ -1,6 +1,6 @@
 # Student Result Analysis System
 
-BCA 311 Summer Training Project · Himanshu Shokeen · Guide: Dr. Ranjeeta Kaur
+BCA 311 Summer Training Project · Himanshu Shokeen · Guide: Mrs. Shweta Sharma
 
 This folder is the project described in the project report: the menu-driven Python program
 from Annexure A-11, its sample data and test suite, plus a web front end so the same system
